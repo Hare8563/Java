@@ -9,7 +9,7 @@ import java.awt.*;
 import java.awt.geom.*;
 import java.awt.event.*;
 import javax.swing.*;
-
+じやましてやる
 public class Univ extends JFrame
 {
     private Board bord1=new Board();
