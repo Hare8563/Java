@@ -13,7 +13,7 @@ import javax.swing.*;
 public class Univ extends JFrame
 {
     private Board bord1=new Board();
-
+    //sagara coment!!
     public static void main(String[] argv){
 	new Univ();
     }
